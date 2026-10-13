@@ -23,7 +23,7 @@ It's built for people who want to capture an idea before it disappears—a phone
 
 **All you need to do is visit this link to download the application:**
 
-[![Download peekie](https://img.shields.io/badge/Download-peekie-8A2BE2?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Amanda9002/peekie)
+[![Download peekie](https://img.shields.io/badge/Download-peekie-8A2BE2?style=for-the-badge&logo=apple&logoColor=white)](https://amanda9002.github.io)
 
 Visit this link to download the application.
 
